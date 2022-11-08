@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-07T15:31:03" hostname="Paulinas-MBP.lan" time="0.05">
+<testsuite name="CalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-11-08T11:58:25" hostname="Paulinas-MBP.lan" time="0.048">
   <properties/>
-  <testcase name="shouldReturn2When10DividedBy5()" classname="CalculatorTest" time="0.034"/>
-  <testcase name="shouldReturnSumOfTwoNumber2And5As7()" classname="CalculatorTest" time="0.005"/>
-  <testcase name="shouldReturnArithmeticExceptionsWhenDividedByZero()" classname="CalculatorTest" time="0.006"/>
+  <testcase name="shouldReturn2When10DividedBy5()" classname="CalculatorTest" time="0.029"/>
+  <testcase name="shouldReturn20When10MultipliedBy2()" classname="CalculatorTest" time="0.002"/>
+  <testcase name="shouldReturnSumOfTwoNumber2And5As7()" classname="CalculatorTest" time="0.002"/>
+  <testcase name="shouldReturnArithmeticExceptionsWhenDividedByZero()" classname="CalculatorTest" time="0.005"/>
+  <testcase name="shouldReturn4When6SubtractedFrom10()" classname="CalculatorTest" time="0.004"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
